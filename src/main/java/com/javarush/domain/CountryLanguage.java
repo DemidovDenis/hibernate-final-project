@@ -6,6 +6,7 @@ import org.hibernate.annotations.Type;
 
 import java.math.BigDecimal;
 
+
 @Entity
 @Table(schema = "world", name = "country_language")
 @AllArgsConstructor
